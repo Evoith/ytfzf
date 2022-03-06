@@ -5,7 +5,7 @@ DOCDIR=${PREFIX}/share/doc/ytfzf
 MANDIR=${PREFIX}/share/man
 LICENSEDIR=${PREFIX}/share/licenses/ytfzf
 
-YTFZF_SYSTEM_ADDON_DIR=${PREFIX}/share/ytfzf/addons
+YTFZF_SYSTEM_ADDON_DIR=${PREFIX}/share/ytfzf/addons                     #yes
 
 doc:
 	mkdir -p ${DESTDIR}${MANDIR}/man1
