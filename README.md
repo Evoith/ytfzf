@@ -36,7 +36,7 @@
 
 ---
 
-# Dependencies
+# Dependencies are you sure
 
 There are only 2 required dependencies, however the rest require some configuration before you can replace them.
 
