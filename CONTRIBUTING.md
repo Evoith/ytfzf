@@ -1,4 +1,4 @@
-# Contributing
+# Contributing why
 
 * use the development branch
 * Keep the script POSIX compliant as defined [here](https://pubs.opengroup.org/onlinepubs/9699919799/)
